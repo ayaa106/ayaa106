@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Student at <a href="https://unp.ac.id/"> Universitas Negeri Padang</a><img 
                                                                               
- - 🔭 I’m currently a Graduate from MAN 02 Muko Muko
+ - 🔭 I’m currently Graduate from MAN 02 Muko Muko
   - 🌱 I’m currently learning C++
   - 😄 Pronouns: She / Her
  - ⚡ Fun fact: I Love playing piano even thought i'm noot good at that
