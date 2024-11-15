@@ -5,7 +5,7 @@
  - 🔭 I’m currently a Graduate from MAN 02 Muko Muko
   - 🌱 I’m currently learning C++
   - 😄 Pronouns: She / Her
- - ⚡ Fun fact: My name is an anagram of "I Play Data"
+ - ⚡ Fun fact: I Love playing piano even thought i'm noot good at that
   
 
 
