@@ -6,7 +6,7 @@
   - 🌱 I’m currently learning C
   - 😄 Pronouns: She / Her
  - ⚡ Fun fact: I Love playing piano even thought i'm noot good at that
-- 📫 How to reach me **https://www.instagram.com/awl1yxh?igsh=OGQ5ZDc2ODk2ZA==**
+  - 📫 How to reach me **AuliaSafitri08107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
