@@ -7,7 +7,7 @@
  - 🔭 I’m currently Graduate from MAN 02 Muko Muko
   - 🌱 I’m currently learning C
   - 😄 Pronouns: She / Her
- - ⚡ Fun fact: I Love playing piano even thought i'm noot good at that
+ - ⚡ Fun fact: I Love playing piano even thought i'm not good at that
   - 📫 How to reach me **AuliaSafitri08107@gmail.com**
 
 <h3 align="left">Connect with me🤝:</h3>
