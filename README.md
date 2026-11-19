@@ -1,34 +1,112 @@
-<h2> Hi, I'm Aulia Safitri! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<!-- ✨ README Aulia Safitri ✨ -->
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+<div align="center">
 
- - 👨‍💻 Student at Universitas Negeri Padang                                                                           
- - 🔭 I’m currently Graduate from MAN 02 Muko Muko
-  - 🌱 I’m currently learning C
-  - 😄 Pronouns: She / Her
- - ⚡ Fun fact: I Love playing piano even thought i'm not good at that
-  - 📫 How to reach me **AuliaSafitri08107@gmail.com**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC8DD&height=140&section=header" alt="soft pink wave header" width="100%"/>
 
-<h3 align="left">Connect with me🤝:</h3>
-<p align="left">
- <p align="left">
-<a href="https://instagram.com/https://www.instagram.com/awl1yxh?igsh=ogq5zdc2odk2za==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/awl1yxh?igsh=ogq5zdc2odk2za==" height="30" width="40" /></a>
-<a href="https://discord.gg/ayaaa0094_75491" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ayaaa0094_75491" height="30" width="40" /></a>
+# Hi, I'm Aulia Safitri! 💗
+
+**Student • Beginner Developer • Future Tech Enthusiast**
+
+୨୧ ─────────────── ୨୧
+
+<img src="assets/loopy-coding.png" alt="Loopy coding with a laptop" width="220"/>
+
+<sub>☁️ welcome to my little corner of GitHub ☁️</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+<em>I love connecting with different people, so if you want to say <b>hi</b>, I'll be happy to meet you! 🌸</em>
+</div>
+
+<br/>
+
+## 🌷 A little about me
+
+<table>
+<tr>
+<td valign="top">
+
+🎓 Student at **Universitas Negeri Padang**
+
+🏫 Graduated from **MAN 02 Muko Muko**
+
+🌱 Currently learning **C**
+
+🎀 Pronouns: **She / Her**
+
+🎹 Fun fact: I love playing piano, even though I'm not good at it
+
+💌 Reach me at **AuliaSafitri08107@gmail.com**
+
+</td>
+<td align="center" width="170">
+
+<img src="assets/loopy-sticker.png" alt="Loopy sticker waving hello" width="140"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🐰 Loopy says hi!
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+> *"Keep coding and don't forget to take a little break!"* 🎀
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+## 💻 Languages & Tools
+
+<p>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-F4B6C8?style=flat&logo=c&logoColor=white" alt="C programming language badge"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
+<sub>🌱 more coming soon as I keep learning ✨</sub>
 
+<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ayaa106&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ayaa106&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaa106&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 💌 Let's connect!
 
----
-[![](https://visitcount.itsvg.in/api?id=ayaa106&icon=0&color=0)](https://visitcount.itsvg.in)
+<p>
+  <a href="https://www.instagram.com/awl1yxh?igsh=ogq5zdc2odk2za==" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-FFC8DD?style=flat&logo=instagram&logoColor=white" alt="Instagram badge"/>
+  </a>
+  <a href="https://discord.gg/ayaaa0094_75491" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-BDB2FF?style=flat&logo=discord&logoColor=white" alt="Discord badge"/>
+  </a>
+  <a href="mailto:AuliaSafitri08107@gmail.com">
+    <img src="https://img.shields.io/badge/Email-BDE0FE?style=flat&logo=gmail&logoColor=white" alt="Email badge"/>
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<div align="center">
+
+୨୧ ─────────────── ୨୧
+
+<img src="assets/loopy-sticker.png" alt="Loopy small sticker" width="60"/>
+
+<em>Thanks for stopping by! Have a lovely day 🌸</em>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDE0FE&height=100&section=footer" alt="soft blue wave footer" width="100%"/>
+
+</div>
